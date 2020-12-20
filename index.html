@@ -6,6 +6,11 @@ title: The Void That Binds
 	<h1>The Void That Binds</h1>
 	<p>Attempting to create piecewise approximations to reality or just poasting about things I find interesting/significant</p>
 </div><!-- /.blurb -->
-{% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% for tag in site.tags %}
+<h3>{{ tag[0] }}</h3>
+<ul>
+{% for post in tag[1] %}
+	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
+</ul>
+{% endfor %}
