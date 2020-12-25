@@ -12,7 +12,8 @@ But if we get good political outcomes, if Ossoff and Warnock win Georgia, if pro
 
 That's because the colossal problems we face aren't intractable. Not even close. This post is primarily a collection of solutions to the problems that we face as a country and a planet, primarily ecological and climate change related solutions, but welfare and inequality focused solutions as well.  
 
-Think of this post like the bit from the Simpsons where Homer covers up the sign that says "Don't forget. you're here forever" with pictures of his daughter so that it says "do it for her." Where "it" is fighting the much, much harder political fights that need to be fought so we can enact the solutions we have.
+Think of this post like the bit from the Simpsons where Homer covers up the sign that says "Don't forget. you're here forever" with pictures of his daughter so that it says "do it for her." Where "it" is fighting the much, much harder political fights that need to be fought so we can enact the solutions we have.  
+
 <img src="https://i.pinimg.com/originals/62/1f/3b/621f3b2135b528a0a1f99547e5075136.png"
      alt="do it for her" 
      style="float: left; margin-right: 10px;"
