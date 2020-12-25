@@ -4,7 +4,13 @@ title: "The Solution Space is Very Large: A Case for Optimism Given Sufficient P
 date: 2020-12-24
 tag: General
 ---
-<i>Humanity faces many problems on a colossal scale with catastrophic consequences. Namely Climate Change. Terrifyingly, it seems like a large portion of the world doesn't have the will to do anything about these problems. Luckily there is a light at the end of the tunnel: if we were to get the political and social will to face our problems, we'd find that there are actually SO MANY POTENTIAL SOLUTIONS and we just have to try them out. This post is a list of some of them to give you the hope and optimist to keep fighting.</i>
+This has been a pretty shitty year and sometimes it feels like the prelude to an even shittier next few decades. The United States faces almost unprecedented inequality and the whole world is dealing with the initial consequences of climate change, a process which is showing no signs of slowing down. At the same time other forms of ecological and social pillaging continue with no end in sight.
+This might seem like a weird way to start a post about optimism and solutioons, but this post is only conditionally optimistic. It's optimistic _if_ we can fix the United States' political dysfunction. And that's a pretty big if.
+But if we get goood political outcomes, if Ossoff and Warnock win Georgia, if progressives and the left get more power in the Democratic party, if more saints like Stacey Abrams and Ben Wikler can set up get-out-the-vote machines in other states, for local as well as federal elections, if not even all, but enough of those things happen, we have many causes for optimism.
+That's because the colossal problems we face aren't intractable. Not even close. This post is primarily a collection of solutions to the problems that we face as a country and a planet, primarily ecological and climate change related solutions, but welfare and inequality focused solutions as well. Think of this post like the bit from the Simpsons where Homer covers up the sign that says "Don't forget, you are here forever" with pictures of his daughter so that it says "do it for her."
+<img src="https://i.pinimg.com/originals/62/1f/3b/621f3b2135b528a0a1f99547e5075136.png"
+     alt="do it for her"
+     style="float: left; margin-right: 10px;" />
 
 The inspiration for this post came to me months ago from a [thread](https://twitter.com/SarahTaber_bww/status/1273338423055704064) by [Dr. Sara Taber](https://twitter.com/SarahTaber_bww) on "well managed wild game/fisheries." It turns out that managing "wild" herds of animals or salmon runs could provide so much more food and remove cities' dependency on rural areas for food. This could greatly reduce agricultural pollution as well.
 
@@ -20,6 +26,4 @@ As I continued too read about agriculture, urban planning, green energy, and var
 
 <h1>Housing</h1>
 
-<h3>Carbon Sequestration</h3>
 
-<h3>Poverty</h3>
