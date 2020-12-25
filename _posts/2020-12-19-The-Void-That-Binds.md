@@ -16,7 +16,7 @@ Think of this post like the bit from the Simpsons where Homer covers up the sign
 
 <img src="https://i.pinimg.com/originals/62/1f/3b/621f3b2135b528a0a1f99547e5075136.png"
      alt="do it for her" 
-     style="float: left; margin-right: 10px;"
+     style="float: left; margin-right: 20px;"
      />  
 
 <h1>Agriculture</h1>
