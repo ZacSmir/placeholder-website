@@ -12,15 +12,13 @@ Think of this post like the bit from the Simpsons where Homer covers up the sign
 <img src="https://i.pinimg.com/originals/62/1f/3b/621f3b2135b528a0a1f99547e5075136.png"
      alt="do it for her"
      style="float: left; margin-right: 10px;" />
-  
-
-I finally got the motivation to write it all up after some of [Noah Smith's](https://twitter.com/Noahpinion) recent posts about technological progress.
 
 <h1>Agriculture</h1>
 The initial inspiration for this post came to me months ago from a [thread](https://twitter.com/SarahTaber_bww/status/1273338423055704064) by [Dr. Sara Taber](https://twitter.com/SarahTaber_bww) on "well managed wild game/fisheries." It turns out that managing "wild" herds of animals or salmon runs could provide so much more food and remove cities' dependency on rural areas for food. This could greatly reduce agricultural pollution as well.  
 The most amazing part of all of this is that it isn't even necessarily a solution that we need to do a lot of intense research on to figure out how to use properly. It was done by Native Americans for thousands of years! And are still doing it!  
 Obviously the world would be a better place if we all became vegans, but if demand for meat is going to continue, we might as well try to make it more sustainable. That's where this next. 
 <h1>Electricity</h1>
+I finally got the motivation to write this post after some of [Noah Smith's](https://twitter.com/noahpinion) on technological progress, specifically as relates to the cost of solar power.
 
 <h1>Transit</h1>
 
