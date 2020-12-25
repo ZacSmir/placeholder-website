@@ -4,7 +4,7 @@ title: "The Solution Space is Very Large: A Case for Optimism Given Sufficient P
 date: 2014-04-30
 tag: General
 ---
-<h4><i>Humanity faces many problems on a colossal scale with catastrophic consequences. Namely Climate Change. Terrifyingly, it seems like a large portion of the world doesn't have the will to do anything about these problems. Luckily there is a light at the end of the tunnel: if we were to get the political and social will to face our problems, we'd find that there are actually SO MANY POTENTIAL SOLUTIONS and we just have to try them out. This post is a list of some of them to give you the hope and optimist to keep fighting.</i></h4>
+<i>Humanity faces many problems on a colossal scale with catastrophic consequences. Namely Climate Change. Terrifyingly, it seems like a large portion of the world doesn't have the will to do anything about these problems. Luckily there is a light at the end of the tunnel: if we were to get the political and social will to face our problems, we'd find that there are actually SO MANY POTENTIAL SOLUTIONS and we just have to try them out. This post is a list of some of them to give you the hope and optimist to keep fighting.</i>
 
 The inspiration for this post came to me months ago from a [thread](https://twitter.com/SarahTaber_bww/status/1273338423055704064) by [Dr. Sara Taber](https://twitter.com/SarahTaber_bww) on "well managed wild game/fisheries." It turns out that managing "wild" herds of animals or salmon runs could provide so much more food and remove cities' dependency on rural areas for food. This could greatly reduce agricultural pollution as well.
 
