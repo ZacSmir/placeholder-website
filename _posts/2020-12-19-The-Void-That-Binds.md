@@ -34,7 +34,12 @@ The bulk of the solutions in this article will be like these: anything from comp
 <h1>Electricity</h1>
 I finally got the motivation to write this post after some of [Noah Smith's](https://twitter.com/noahpinion) posting and [writing](https://noahpinion.substack.com/p/techno-optimism-for-the-2020s) on technological progress and [renewables](https://noahpinion.substack.com/p/why-im-so-excited-about-solar-and). The thing that struck me the most was how crazy cheap solar energy had gotten. The price of solar energy has [fallen 82% since 2010](https://www.pv-magazine.com/2020/06/03/solar-costs-have-fallen-82-since-2010/#:~:text=The%20levelized%20cost%20of%20energy,the%20International%20Renewable%20Energy%20Agency.) and is [cheaper than natural gas and coal](https://ourworldindata.org/cheap-renewables-growth) at the astounidngly low price of $40/MWh as of 2019. At the same time batteries are getting better and better, both in terms of incremental improvements and, as Smith puts it in his article: "[new fundamental advances](https://www.wired.com/story/quantumscape-solid-state-battery/)"  
 
-Solar Power isn't the only contender for green energy production, and both solar and energy storage have drawbacks in the need to extract enough resources needed to make all the panels and batteries. [David Roberts]() has written about the potential of [geothermal energy]
+Solar Power isn't the only contender for green energy production, and both solar and energy storage have drawbacks in the need to extract enough resources needed to make all the panels and batteries. [David Roberts]() has written about the potential of [geothermal energy](https://www.vox.com/energy-and-environment/2020/10/21/21515461/renewable-energy-geothermal-egs-ags-supercritical) and while there are still engineering problems that stand in the way of fully unleasing the potential of geothermal, those solutions appear to be completely solvable.  
+
+If solar and geothermal aren't to your liking, or simply aren't enough, there's always the incredibly powerful, and contrary to popular belief(thanks Matt Groenig), very safe, nuclear power. Modern reactor designs, generally known as [generation IV reactors](https://en.wikipedia.org/wiki/Generation_IV_reactor), but including specific designs like molten salt fast reactors(MSFRs) which are easy to build and operate, have an effectively eternal fuel cycle, produce easy to manage the waste, 
+
+<h1>Construction and Manufacturing</h1>
+Many construction and manufacturing methods involve heating materials to incredibly high temperatures. Luckily, another Bill Gates backed startup
 
 <h1>Transit</h1>
 
