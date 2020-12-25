@@ -8,7 +8,7 @@ This has been a pretty shitty year and sometimes it feels like the prelude to an
 This might seem like a weird way to start a post about optimism and solutioons, but this post is only conditionally optimistic. It's optimistic _if_ we can fix the United States' political dysfunction. And that's a pretty big if.  
 But if we get goood political outcomes, if Ossoff and Warnock win Georgia, if progressives and the left get more power in the Democratic party, if more saints like Stacey Abrams and Ben Wikler can set up get-out-the-vote machines in other states, for local as well as federal elections, if not even all, but enough of those things happen, we have many causes for optimism.  
 That's because the colossal problems we face aren't intractable. Not even close. This post is primarily a collection of solutions to the problems that we face as a country and a planet, primarily ecological and climate change related solutions, but welfare and inequality focused solutions as well.  
-Think of this post like the bit from the Simpsons where Homer covers up the sign that says "Don't forget, you're here forever" with pictures of his daughter so that it says "do it for her."
+Think of this post like the bit from the Simpsons where Homer covers up the sign that says "Don't forget, you're here forever" with pictures of his daughter so that it says "do it for her."  
 <img src="https://i.pinimg.com/originals/62/1f/3b/621f3b2135b528a0a1f99547e5075136.png"
      alt="do it for her"
      style="float: left; margin-right: 10px;" />
