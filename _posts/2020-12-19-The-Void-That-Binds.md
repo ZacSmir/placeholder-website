@@ -12,13 +12,13 @@ The most amazing part of all of this is that it isn't even necessarily a solutio
 
 As I continued too read about agriculture, urban planning, green energy, and various welfare systems, I realized that even if not every potential solution will work, there are so, so, _so_ many solutions to our problems, and we just have to be willing to try them. So here's a by no means complete list of some of the myriad solutions to the problems that face both humanity as a whole and the United States:</p>
 
-<h3>Agriculture</h3>
+<h1>Agriculture</h1>
 
-<h3>Electricity</h3>
+<h1>Electricity</h1>
 
-<h3>Transit</h3>
+<h1>Transit</h1>
 
-<h3>Housing</h3>
+<h1>Housing</h1>
 
 <h3>Carbon Sequestration</h3>
 
