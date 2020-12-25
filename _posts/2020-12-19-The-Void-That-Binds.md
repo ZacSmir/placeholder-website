@@ -38,17 +38,23 @@ Solar Power isn't the only contender for green energy production, and both solar
 
 If solar and geothermal aren't to your liking, or simply aren't enough, there's always the incredibly powerful, and contrary to popular belief(thanks Matt Groenig), very safe, nuclear power. Modern reactor designs, generally known as [generation IV reactors](https://en.wikipedia.org/wiki/Generation_IV_reactor), but including specific designs like [molten salt fast reactors](https://onlinelibrary.wiley.com/doi/full/10.1002/ese3.59)(MSFRs) which are easy to build and operate, have an effectively eternal fuel cycle, and produce easy to manage the waste. This is my personal favorite form of renewable energy, but it would require large amounts of initial investment and a "massive paradigm shift" in how the United States' nuclear power industry's approach and focuses.  
 
-Another advanced nuclear reactor design, albeit one that isn't fully fleshed out yet, is the Traveling Wave Reactor(TWR) or "Generation IV, liquid sodium-cooled fast reactor" design from Bill Gates-back company [Terrapower](https://www.terrapower.com/our-work/traveling-wave-reactor-technology/). This reactor operates at atmospheric pressure, making it significantly safer and will be able to utilize fuel made from depleted uranium, reducing fuel supply issues and limiting the possiblity of proliferation. Terrapower's TWR design isn't fully complete, but they've had success with a TWR concept engineering simulator and a completed core concept design for a TWR prototype program. 
+Another advanced nuclear reactor design, albeit one that isn't fully fleshed out yet, is the Traveling Wave Reactor(TWR) or "Generation IV, liquid sodium-cooled fast reactor" design from Bill Gates-back company [Terrapower](https://www.terrapower.com/our-work/traveling-wave-reactor-technology/). This reactor operates at atmospheric pressure, making it significantly safer and will be able to utilize fuel made from depleted uranium, reducing fuel supply issues and limiting the possiblity of proliferation. Terrapower's TWR design isn't fully complete, but they've had success with a TWR concept engineering simulator and a completed core concept design for a TWR prototype program.  
 
-Through simple market forces, technological advancement, and government investment reaching zero emissions from energy production is an incredibly achievable goal. We just need to point ourselves toward the finish line and start running.
+Through simple market forces, technological advancement, and government investment reaching zero emissions from energy production is an incredibly achievable goal. We just need to point ourselves toward the finish line and start running.  
 
 <h1>Construction and Manufacturing</h1>
 Many construction and manufacturing methods involve heating materials to incredibly high temperatures. These processes can result in large greenhouse gas emissions. The process of making cement clinkers, an intermediary product in cement manufacturing, [produces 5% of global man made CO2 emissions](https://web.archive.org/web/20070714085318/http://www.wbcsd.org/DocRoot/1IBetslPgkEie83rTa0J/cement-action-plan.pdf). Industrial processes overall make up about a [fifth of greenhouse gas emissions](https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data). Luckily, another Bill Gates backed startup, [Heliogen](https://heliogen.com/), has an advanced method of aligning arrays of mirrors at a tower to heat materials to temperatures of up to 1500 degrees celcius. This can be used foor calcining, reforming, ore roasting, and sintering, processes which are vital for cement and steel manufacturing.  
 
-One of the largest potential uses of cement and steel is also most important for reducing other sources of emissions(as we'll see) as well as for providing housing: buildings! 
+One of the largest potential uses of cement and steel is also most important for reducing other sources of emissions(as we'll see) as well as for providing housing: buildings! It turns out there's another way that works just as well. In 2019 the International Code Council [approved proposals to allow tall wood buildings](https://www.woodworks.org/wp-content/uploads/wood_solution_paper-TALL-WOOD.pdf) as part of the 2021 International Building Code. A tall wood building is a building constructed primarily from mass timber materials instead of steel. In the past decade there's been more and more tall wood construction(ranging from eight to TWENTY FOUR stories in the case of the HoHo Wien in Austria). This update to the IBC would standardize the different types of tall wood buildings with varying but limited amounts of steel framing or other supports. One allowed building type would be eighteen stories tall with an average of 64,000 square feet per story. Construction with primarily mass timber could make housing and office construction significantly greener.  
 
-<h1>Transit</h1>
+<h1>Transit and Density</h1>
+Another
 
 <h1>Housing</h1>
+
+<h1>Inequality</h1>
+
+<h1>Healthcare</h1>
+
 
 
