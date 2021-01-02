@@ -16,7 +16,7 @@ Think of this post like the bit from the Simpsons where Homer covers up the sign
 
 <img src="https://i.pinimg.com/originals/62/1f/3b/621f3b2135b528a0a1f99547e5075136.png"
      alt="do it for her" 
-     style="float: left; margin-right: 20px;"
+     style="float: right; margin-left: 20px;"
      />  
 
 <h1>Agriculture</h1>
@@ -46,16 +46,15 @@ Through simple market forces, technological advancement, and government investme
 <h1>Construction and Manufacturing</h1>
 Many construction and manufacturing methods involve heating materials to incredibly high temperatures. These processes can result in large greenhouse gas emissions. The process of making cement clinkers, an intermediary product in cement manufacturing, [produces 5% of global man made CO2 emissions](https://web.archive.org/web/20070714085318/http://www.wbcsd.org/DocRoot/1IBetslPgkEie83rTa0J/cement-action-plan.pdf). Industrial processes overall make up about a [fifth of greenhouse gas emissions](https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data). Luckily, another Bill Gates backed startup, [Heliogen](https://heliogen.com/), has an advanced method of aligning arrays of mirrors at a tower to heat materials to temperatures of up to 1500 degrees celcius. This can be used foor calcining, reforming, ore roasting, and sintering, processes which are vital for cement and steel manufacturing.  
 
-One of the largest potential uses of cement and steel is also most important for reducing other sources of emissions(as we'll see) as well as for providing housing: buildings! It turns out there's another way that works just as well. In 2019 the International Code Council [approved proposals to allow tall wood buildings](https://www.woodworks.org/wp-content/uploads/wood_solution_paper-TALL-WOOD.pdf) as part of the 2021 International Building Code. A tall wood building is a building constructed primarily from mass timber materials instead of steel. In the past decade there's been more and more tall wood construction(ranging from eight to TWENTY FOUR stories in the case of the HoHo Wien in Austria). This update to the IBC would standardize the different types of tall wood buildings with varying but limited amounts of steel framing or other supports. One allowed building type would be eighteen stories tall with an average of 64,000 square feet per story. Construction with primarily mass timber could make housing and office construction significantly greener.  
+One of the largest uses for cement and steel is in constructing buildings. Almost all of our high rises are made using large amounts of concrete and steel. But just as solar power is now cost-competitive with oil and gas, another construction material is becoming highly competitive with traditional ones. Mass timber swaps out concrete and steel for prefabricated solid wood panels. Not only is this material [lighter, more durable, seismically resistance, fire resistance](https://www.oregon.gov/ODF/Documents/ForestBenefits/Beck-mass-timber-market-analysis-report.pdf), [cheaper, and up to 25% faster to build with,](https://www.awc.org/pdf/education/des/ReThinkMag-DES610A-MassTimberinNorthAmerica-161031.pdf) it's also significantly better for the environment. Since it's less sensitive too temperature changes, mass timber structures are [more energy efficient](https://www.fpl.fs.fed.us/documnts/fplrp/fpl_rp702.pdf). It's also predicted that using mass timber foor 90% of new urban buildings would [reduce CO<sub>2</sub> emissions by eight billioon tons by 2050](https://www.nature.com/articles/s41893-019-0462-4)(this doesn't take into account the adoption of technologies like Heliogen's). We've already seen some of mass timber's success in buldings like the HoHo Wien, a _twenty-four_ story tall mass timber building in Austria, and dozens of other shorter midrise and low highrise constructions throughout Europe and the United States. However, mass timber constructions require an alternate approval process under the International Building Code(IBC) which made them more difficult to build. Luckily for us, that just changed.  
+
+In 2019 the International Code Council [approved proposals to allow tall wood buildings](https://www.woodworks.org/wp-content/uploads/wood_solution_paper-TALL-WOOD.pdf) as part of the 2021 International Building Code. A tall wood building is a building constructed primarily from mass timber materials instead of steel. This update to the IBC would standardize the different types of tall wood buildings with varying but limited amounts of steel framing or other supports. One allowed building type would be eighteen stories tall with an average of 64,000 square feet per story. This standardization will make mass timber construction significantly easier and cheaper, so we can expect to see more and more of them go up starting soon.  
+
+<h1>Housing</h1>
 
 <h1>Transit and Density</h1>
 Another
 
-<h1>Housing</h1>
-
-<h1>Inequality</h1>
-
-<h1>Healthcare</h1>
 
 
 
