@@ -51,10 +51,8 @@ One of the largest uses for cement and steel is in constructing buildings. Almos
 
 In 2019 the International Code Council [approved proposals to allow tall wood buildings](https://www.woodworks.org/wp-content/uploads/wood_solution_paper-TALL-WOOD.pdf) as part of the 2021 International Building Code. A tall wood building is a building constructed primarily from mass timber materials instead of steel. This update to the IBC would standardize the different types of tall wood buildings with varying but limited amounts of steel framing or other supports. One allowed building type would be eighteen stories tall with an average of 64,000 square feet per story. This standardization will make mass timber construction significantly easier and cheaper, so we can expect to see more and more of them go up starting soon.  
 
-<h1>Housing</h1>
+<h1>Housing, Transity, and Density</h1>
 
-<h1>Transit and Density</h1>
-Another
 
 
 
